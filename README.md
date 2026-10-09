@@ -19,4 +19,4 @@ A study website for *A Streetcar Named Desire*, Scenes 1–3, read through the p
 
 ## How it works
 
-The whole site is one file, `index.html`, with no build step. Edit it on GitHub and commit; GitHub Pages republishes the site within a minute or two.
+The whole site is one file, `index.html`, with no build step. GitHub Pages publishes it from the `gh-pages` branch: edit `index.html` on that branch and commit, and the live site updates within a minute or two.
